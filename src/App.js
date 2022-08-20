@@ -1,6 +1,6 @@
 import Header from './components/Header.js'
 import Footer from './components/Footer.js';
-// import Cars from './components/Cars.js'
+
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header/>
       <Footer/>
-      {/* <Cars/> */}
+      
     </div>
   );
 }
