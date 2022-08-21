@@ -1,5 +1,6 @@
 import Header from './components/Header.js'
 import Footer from './components/Footer.js';
+import Main from './components/Main.js';
 import { useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
@@ -28,7 +29,7 @@ function App() {
     <div className="App">
       <Header/>
       <Footer/>
-
+      <Main />
       
     </div>
   );
