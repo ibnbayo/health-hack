@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/health-hack/static/css/main.0a5f662f.css",
+    "main.js": "/health-hack/static/js/main.bae80e82.js",
+    "static/media/logo.svg": "/health-hack/static/media/logo.f0d139fdd255b3f14db1c0b2c62ba69d.svg",
+    "index.html": "/health-hack/index.html",
+    "main.0a5f662f.css.map": "/health-hack/static/css/main.0a5f662f.css.map",
+    "main.bae80e82.js.map": "/health-hack/static/js/main.bae80e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5f662f.css",
+    "static/js/main.bae80e82.js"
+  ]
+}
